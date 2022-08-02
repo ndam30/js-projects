@@ -1,0 +1,111 @@
+*{
+	box-sizing: border-box;
+}
+ body{
+ 	background-image: linear-gradient(white, yellow, black);
+ 	background-repeat: no-repeat;
+ 	height: 100vh;
+ 	background-size: cover;
+ 	background-position: center;
+ 	display: flex;
+ 	flex-direction: column;
+ 	align-items: center;
+ }
+
+h1{
+	font-size: 30px;
+	font-weight: bold;
+}
+h2{
+	font-size: 60px;
+	font-weight: bold;
+	color: white;
+}
+
+
+.countdown_container{
+	display: flex;
+	text-align: center;
+
+}
+#days{
+ padding: 30px;
+ color: white;
+ background-color: black;
+   text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+#hours{
+	 padding: 30px;
+	 color: white;
+	 background-color: black;
+	   text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+
+}
+
+#minutes{
+	 padding: 30px;
+	 color: white;
+	 background-color: black;
+	   text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+	
+
+
+}
+
+#seconds{
+	 padding: 30px;
+	 color: white;
+	 background-color: black;
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+#a{
+	background-color: yellow;
+	text-align: center;
+	border: 10px solid white;
+		padding: 15px;
+		font-size: 25px;
+}
+#b{
+	background-color: yellow;
+	text-align: center;
+	border: 10px solid white;
+	padding: 15px;
+	font-size: 25px;
+}
+#c{
+	background-color: yellow;
+	text-align: center;
+	border: 10px solid white;
+	padding: 15px;
+	font-size: 25px;
+}
+#d{
+	background-color: yellow;
+	text-align: center;
+	border: 10px solid white;
+	padding: 15px;
+	font-size: 25px;
+}
+
+/*.big_text{
+	font-size: 50px;
+    padding: 50px;
+    font-weight: bold;
+}
+
+.spa{
+	text-align: center;X
+}
+.spa span{
+	font-size: 35px;
+}*/
